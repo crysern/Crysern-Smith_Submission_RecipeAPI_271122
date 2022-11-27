@@ -1,8 +1,8 @@
 # Crysern-Smith_Submission_RecipeAPI_271122
 
-                                                              **Software Design Accelerator**
+                                                           Software Design Accelerator
 
-                                                                 **Project Requirements**
+                                                              Project Requirements
 
 The final project for the course is to build your own REST service (API).
 
