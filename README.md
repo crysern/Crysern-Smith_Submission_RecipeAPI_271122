@@ -5,9 +5,9 @@
 ![Maven Dependency Manager](https://img.shields.io/badge/dependency%20manager-Maven-AA215A.svg?logo=ApacheMaven)
 ![Spring Boot](https://img.shields.io/badge/web%20framework-Spring%20Boot-6DB33F.svg?logo=SpringBoot)
 
-                                                        Software Design Accelerator
+                                                    Software Design Accelerator
 
-                                                           Project Requirements
+                                                       Project Requirements
 
 The final project for the course is to build your own REST service (API).
 
