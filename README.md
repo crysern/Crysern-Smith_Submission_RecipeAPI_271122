@@ -3,6 +3,7 @@
 ![JVM Platform](https://img.shields.io/badge/platform-JVM-6C93B8.svg?logo=IntelliJIDEA)
 ![JUnit5 Testing Framework](https://img.shields.io/badge/testing%20framework-JUnit5-26A162.svg?logo=JUnit5)
 ![Maven Dependency Manager](https://img.shields.io/badge/dependency%20manager-Maven-AA215A.svg?logo=ApacheMaven)
+![Spring Boot](https://img.shields.io/badge/web%20framework-Spring%20Boot-6DB33F.svg?logo=SpringBoot)
 
                                                         Software Design Accelerator
 
