@@ -1,0 +1,7 @@
+com\project\recipe\exceptions\RecipeExceptionHandler.class
+com\project\recipe\exceptions\RecipeNotFoundException.class
+com\project\recipe\entity\Recipe.class
+com\project\recipe\RecipeController.class
+com\project\recipe\entity\Ingredient.class
+com\project\recipe\RecipeApplication.class
+com\project\recipe\RecipeService.class
