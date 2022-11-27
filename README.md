@@ -17,3 +17,32 @@ The API should support basic CRUD operations and allow a user to:
 ● Update a recipe
 
 ● Delete a recipe
+
+Data will be stored locally (not persisted to a database so will disappear when the
+application stops running).
+
+What we expect to see:
+
+● Use of JSON objects
+
+● Use of relevant HTTP protocols - GET, POST, PUT, DELETE
+
+● Local memory storage (Java collections)
+
+● A recipe should have:
+
+○ ID
+
+○ Name
+
+○ Ingredients
+
+■ Name
+
+■ Quantity
+
+○ Instructions
+
+○ Image (optional)
+
+● Use of testing - as you learn TDD, you should add tests to your project
