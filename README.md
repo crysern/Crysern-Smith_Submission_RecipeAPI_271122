@@ -1,8 +1,8 @@
 # Crysern-Smith_Submission_RecipeAPI_271122
-[![Java Language](https://img.shields.io/badge/language-Java-3A75B0.svg?logo=OpenJDK)]
-[![JVM Platform](https://img.shields.io/badge/platform-JVM-6C93B8.svg?logo=IntelliJIDEA)]
-[![JUnit5 Testing Framework](https://img.shields.io/badge/testing%20framework-JUnit5-26A162.svg?logo=JUnit5)]
-[![Maven Dependency Manager](https://img.shields.io/badge/dependency%20manager-Maven-AA215A.svg?logo=ApacheMaven)]
+![Java Language](https://img.shields.io/badge/language-Java-3A75B0.svg?logo=OpenJDK)
+![JVM Platform](https://img.shields.io/badge/platform-JVM-6C93B8.svg?logo=IntelliJIDEA)
+![JUnit5 Testing Framework](https://img.shields.io/badge/testing%20framework-JUnit5-26A162.svg?logo=JUnit5)
+![Maven Dependency Manager](https://img.shields.io/badge/dependency%20manager-Maven-AA215A.svg?logo=ApacheMaven)
 
                                                         Software Design Accelerator
 
